@@ -25,3 +25,8 @@ end-of-line
 outline
 linear
 ```
+
+
+## More Resources
+
+Check out the [Useful Resources](links.md) page for useful links.
